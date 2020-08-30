@@ -1,0 +1,22 @@
+Dr. JACKSON(Pediatrics) has been checked into the room #1.
+Dr. Smith(Pediatrics) has been checked into the room #2.
+Sorry! The room is being used by Dr. Smith.
+	Please try again later.
+Dr. Alan(Internal medicine) has been checked into the room #3.
+Dr. Charlie(General practice) has been checked into the room #4.
+'Pras', age: 1 will be EXAMINED by Dr. JACKSON (Pediatrics) at room #1 - (Not an Emergency).
+'Shakya', age: 2 will be EXAMINED by Dr. Smith (Pediatrics) at room #2 - (Emergency Case).
+Sorry! 'Ana' has been WAIT LISTED for Dr. JACKSON at room #1.
+Sorry! 'Michael' has been WAIT LISTED for Dr. Smith at room #2.
+Sorry! 'Taylor' has been WAIT LISTED for Dr. JACKSON at room #1.
+Good Bye! Pras. You have been checked out.
+'Ana', age 3 will now be examined by Dr. JACKSON at room #1 - (Emergency Case).
+Good Bye! Shakya. You have been checked out.
+Good Bye! Dr. Smith, you have been Checked Out.
+	Room #2 is now available.
+Customer 'Michael' has now been moved into waiting list of Dr.Alan.
+'Indra', age: 67 will be EXAMINED by Dr. Charlie (General practice) at room #4 - (Emergency Case).
+Good Bye! Indra. You have been checked out.
+Good Bye! Dr. Charlie, you have been Checked Out.
+	Room #4 is now available.
+'Jyoti', age: 30 will be EXAMINED by Dr. Alan (Internal medicine) at room #3 - (Emergency Case).
